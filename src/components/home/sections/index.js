@@ -1,0 +1,8 @@
+export { default as ApplicationForm } from "./ApplicationForm"
+export { default as Courses } from "./Courses"
+export { default as Instagram } from "./Instagram"
+export { default as News } from "./News"
+export { default as Reviews } from "./Reviews"
+export { default as Slider } from "./Slider"
+export { default as Teachers } from "./Teachers"
+export { default as Tests } from "./Tests"
